@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.idea/
+.vscode/
+# never commit real CVs or personal documents
+*.pdf
+*.docx
+uploads/
